@@ -1,6 +1,6 @@
 # StreamLine: Hybrid Edge-Cloud Medical Triage Framework
 
-**StreamLine** is a medical IoT prototype designed to balance **real-time responsiveness** and **global intelligence**. It implements a hybrid architecture where life-critical alerts are handled at the "Edge" (local device), while complex triage and trend analysis are performed in the "Cloud" (AWS EC2).
+**StreamLine** is a medical IoT prototype designed to balance **real-time responsiveness** and **global intelligence**. It implements a hybrid architecture where life-critical alerts are handled at the Edge (local device), while complex triage and trend analysis are performed in the Cloud (AWS EC2).
 
 ## Key Features
 
@@ -10,7 +10,7 @@
 
   * **Secure Data Pipeline:** Mutual TLS (mTLS) encryption using X.509 certificates via MQTT over Port 8883.
 
-  * **De-identified Privacy:** Patient data is anonymized before transmission to maintain high data privacy standards.
+  * **De-identified Privacy:** Patient data is anonymised before transmission to maintain high data privacy standards.
 
 ## Technical Architecture
 
