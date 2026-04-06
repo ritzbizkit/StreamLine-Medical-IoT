@@ -33,7 +33,7 @@ The Edge node detects a heart rate spike and issues a local critical alert witho
 
 The EC2 server receives the raw data and "upgrades" it into an actionable Triage Level recommendation.
 
-\<comment-tag id="2"\>\> *Evidence of Global Intelligence and LLM-style decision making.*\</comment-tag id="2" text="Since you have a great screenshot of the Cloud Brain's decision logs, you should embed the image directly here using Markdown syntax. This provides immediate technical validation for your claims about 'Global Intelligence'.
+![Prototype Evidence #2 (Cloud Intelligence)](https://raw.githubusercontent.com/ritzbizkit/StreamLine-Medical-IoT/main/Prototype%20Evidence%20%232%20(Cloud%20Intelligence).png)
 
 
 ### 3\. AWS Infrastructure Verification
