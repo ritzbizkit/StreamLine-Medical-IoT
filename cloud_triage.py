@@ -9,7 +9,7 @@ from AWSIoTPythonSDK.MQTTLib import AWSIoTMQTTClient
 # ==========================================
 # 1. CONFIGURATION
 # ==========================================
-# Your unique AWS IoT Endpoint
+# Unique AWS IoT Endpoint
 ENDPOINT = "al312bhfmjvjc-ats.iot.us-east-1.amazonaws.com"
 CLIENT_ID = "StreamLine_Cloud_Brain"
 
