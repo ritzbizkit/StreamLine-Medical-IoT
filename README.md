@@ -40,7 +40,7 @@ The EC2 server receives the raw data and "upgrades" it into an actionable Triage
 
 Verification of the running EC2 instance providing the centralized clinical decision support.
 
-\<comment-tag id="3"\>\> *Proof of cloud-native deployment on AWS.*\</comment-tag id="3" text="Embedding the infrastructure summary screenshot here completes the proof of your deployment. It confirms the instance is running and shows the public IP used in your scripts.
+![Infrastructure Proof](https://github.com/ritzbizkit/StreamLine-Medical-IoT/blob/main/Infrastructure%20Proof.png?raw=true)
 
 
 ## Implementation Details
